@@ -1,4 +1,3 @@
-Notitie voor de collega's: tov de opdracht op Glitch heb ik voor de class en de animatie verschillende namen genomen (resp. '.turn' en 'draai')
 
 # Keyframes
 We gaan aan de slag met CSS keyframes om een aantal animaties te maken. Je hoeft voor deze opdracht de HTML niet aan te passen. Voor alle animaties moet je ook weten hoe CSS transforms werken van de vorige opdracht.
